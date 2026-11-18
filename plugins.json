@@ -1,0 +1,128 @@
+[
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 17394,
+    "fileHash": "sha256-dc41ead02a5813d77ba950138517e1d412df57e5b12dc5fe1561c8a47e20f806",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "XXXTimePlugin",
+    "description": "Imported CloudStream extension package: XXXTime",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/XXXTime.cs3",
+    "name": "XXXTime"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 15822,
+    "fileHash": "sha256-f6497f52e577ca89f8cd887b3bf4758cfe352268512f3b6116d73ac73dadd901",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "xVideosPlugin",
+    "description": "Imported CloudStream extension package: xVideos",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/xVideos.cs3",
+    "name": "xVideos"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 22465,
+    "fileHash": "sha256-d70adaaf915703cffc38149809aebd9f595b267b591f5c9c31c25e5e68b26a82",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "xHamsterPlugin",
+    "description": "Imported CloudStream extension package: XHamster",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/XHamster.cs3",
+    "name": "XHamster"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 30757,
+    "fileHash": "sha256-7a8c38ce2d5f9d05e35d0953fc6af1785e4d0a28273748f4e26ba91b279c918d",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "WatchPornPlugin",
+    "description": "Imported CloudStream extension package: Watchporn",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/Watchporn.cs3",
+    "name": "Watchporn"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 15817,
+    "fileHash": "sha256-d85b215f3adcece50303be13121dd5c4b3afc7812b3e32b70743e50781ad4978",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "FreePornVideosProvider",
+    "description": "Imported CloudStream extension package: FreePornVideos",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/FreePornVideos.cs3",
+    "name": "FreePornVideos"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 15475,
+    "fileHash": "sha256-24e096daa14ddea77e5cc9e16e0e92a725033046cb4d935b5e9969371b9cab84",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "WatchPornPlugin",
+    "description": "Imported CloudStream extension package: BrazzPw",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/BrazzPw.cs3",
+    "name": "BrazzPw"
+  },
+  {
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/shintopc/cloudstreamplugin",
+    "fileSize": 13473,
+    "fileHash": "sha256-6cb85bfdbde0bb8ea9d5455a345b350f319b7ce16c9ba1b582141108a0b266d3",
+    "status": 1,
+    "authors": [
+      "Imported package"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "AagmaalPlugin",
+    "description": "Imported CloudStream extension package: Aagmaal",
+    "url": "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/Aagmaal.cs3",
+    "name": "Aagmaal"
+  }
+]

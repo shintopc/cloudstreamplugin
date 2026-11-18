@@ -1,0 +1,8 @@
+{
+  "name": "My Personal CloudStream Extensions",
+  "description": "Personal repository containing imported CloudStream .cs3 extensions.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/shintopc/cloudstreamplugin/main/plugins.json"
+  ]
+}

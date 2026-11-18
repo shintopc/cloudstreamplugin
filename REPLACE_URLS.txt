@@ -1,0 +1,1 @@
+Replace shintopc/cloudstreamplugin in repo.json and plugins.json before using.
